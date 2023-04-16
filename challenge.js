@@ -1,4 +1,4 @@
-//***** CHALLENGE 1  {C-create R-Read U-Update D-delete CHALLENGE    }
+//***** CHALLENGE 1  {C-create R-Read U-Update D-delete CHALLENGE} using synchronous
  
 
 const fs=require("fs");
