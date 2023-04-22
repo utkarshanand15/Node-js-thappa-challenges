@@ -18,6 +18,7 @@
   "homepage": "https://github.com/utkarshanand15/Node-js-thappa-challenges#readme",
   "dependencies": {
     "chalk": "^4.1.2",
+    "nodemon": "^2.0.22",
     "validator": "^13.9.0"
   }
 }
